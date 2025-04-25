@@ -52,7 +52,7 @@ A collection of lightweight Gradio applications demonstrating how to build AI-po
 
 1. Create a `.env` file in the project root:
    ```ini
-   API_KEY=your_deepinfra_api_key_here
+   API_KEY = your_deepinfra_api_key_here
    ```
 2. Make sure the `.env` file is in the same directory as the scripts.
 
